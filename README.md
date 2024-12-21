@@ -1,0 +1,2 @@
+# sarok
+Mobilprogramozás beadandó CV
